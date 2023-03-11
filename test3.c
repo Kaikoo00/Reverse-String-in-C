@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-//Edrico Putra Pramana-LB20
+//Edrico Putra Pramana
 //2602078133
 
 #define max 100
